@@ -1,4 +1,5 @@
-# PhoneGap amb JSView
+# La meva primera APP
+
 
 la meva primera APP
 
