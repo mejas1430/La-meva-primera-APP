@@ -1,6 +1,10 @@
 # PhoneGap amb JSView
 
-Test Bàsic de PhoneGap
+la meva primera APP
+
+
+
+Paula i Marta
 29/11/2015
 
 02/12/2015
